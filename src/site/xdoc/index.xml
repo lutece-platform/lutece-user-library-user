@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Library User API</title>
+    </properties>
+    <body>
+        <section name="Library User API">
+            <subsection name="Introduction">
+                <p>
+                    This library provides the interfaces used by all Back Office and MyLutece users.
+                </p>
+            </subsection>
+        </section>
+    </body>
+</document>

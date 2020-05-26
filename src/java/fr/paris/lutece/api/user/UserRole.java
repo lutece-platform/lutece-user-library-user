@@ -37,21 +37,21 @@ package fr.paris.lutece.api.user;
 /**
  * UserRole
  */
-public interface UserRole 
+public interface UserRole
 {
     /**
      * Returns the role description.
      *
      * @return The description.
      */
-    String getDescription();
+    String getDescription( );
 
     /**
      * Returns the role Key
      *
      * @return The role Key.
      */
-    String getKey();
+    String getKey( );
 
     /**
      * Sets the role description
@@ -59,7 +59,7 @@ public interface UserRole
      * @param strDescription
      *            The description to set.
      */
-    void setDescription(String strDescription);
+    void setDescription( String strDescription );
 
     /**
      * Sets the role key
@@ -67,6 +67,6 @@ public interface UserRole
      * @param strKey
      *            The Key to set.
      */
-    void setKey(String strKey);
-    
+    void setKey( String strKey );
+
 }

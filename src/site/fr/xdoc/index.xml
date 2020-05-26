@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Librairie User API</title>
+	</properties>
+	<body>
+		<section name="Librairie User API">
+			<subsection name="Introduction">
+				<p>
+					Cette librairie fournit l'ensemble des interfaces pour la gestion des utlisateurs Front et Back.
+				</p>
+			</subsection>
+		</section>
+	</body>
+</document>
