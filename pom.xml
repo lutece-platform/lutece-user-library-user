@@ -15,6 +15,7 @@
         <jiraProjectName>LIBUSERAPI</jiraProjectName>
         <jiraComponentId>16151</jiraComponentId>
         <sonar.sources>pom.xml,src/java</sonar.sources>
+        <sonar.tests></sonar.tests>
     </properties>
 	
     <repositories>
