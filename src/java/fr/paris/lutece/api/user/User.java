@@ -77,17 +77,7 @@ public interface User
      */
     String getFirstName( );
 
-    /**
-     * Gets a user's info
-     * 
-     * @param key
-     *            The info key
-     * @param <X>
-     *            the value's type stored in the user map info
-     * @return The info value
-     */
-    <X extends Object> X getUserInfo( String key );
-
+    
     /**
      * Get the list of workgroups for this user
      * 
